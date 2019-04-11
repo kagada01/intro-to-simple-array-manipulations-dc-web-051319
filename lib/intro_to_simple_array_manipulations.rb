@@ -1,3 +1,3 @@
-def using push(a, b)
+def using push(array, string)
 
 end
